@@ -1,6 +1,6 @@
 ## Salve 😸
 
-Eu sou o pedro (mas prefiro kanno)
+Eu sou o pedro (ou kanno)
 
 Estou no github por motivos didáticos.
 
